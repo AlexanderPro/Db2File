@@ -33,10 +33,10 @@ columnRelations section attributes:
 * dbColumnName is a database column name.
 * fileColumnName is a file column name.
 * fileColumnFormat  is a file column format for dates, numbers and etc. It is set as C# format. There is no default format and the app uses the most preferable. E.g:
- 1. dd.MM.yyyy is a date format.
- 2. dd.MM.yyyy HH:mm:ss is a date and time format.
- 3. 0.00 is a number with two digits after the dot.
- 4. etc.
+  * dd.MM.yyyy is a date format.
+  * dd.MM.yyyy HH:mm:ss is a date and time format.
+  * 0.00 is a number with two digits after the dot.
+  * etc.
 
 Export to Excel File
 --------------------
@@ -47,8 +47,8 @@ columnRelations section attributes:
 * dbColumnName is a database column name.
 * fileColumnName is a file column name.
 * fileColumnFormat  is a file column format for dates, numbers and etc. It is set as Open Office Xml format. There is no default format and the app uses the most preferable. E.g:
- 1. yyyy-MM-dd is a date format.
- 2. yyyy-MM-dd hh:mm:ss is a date and time format.
- 3. #,##0.00 is a number with two digits after the dot.
- 4. etc.
+  * yyyy-MM-dd is a date format.
+  * yyyy-MM-dd hh:mm:ss is a date and time format.
+  * #,##0.00 is a number with two digits after the dot.
+  * etc.
 
